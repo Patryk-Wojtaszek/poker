@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using PokerClassLibrary;
 
 namespace Poker
 {
@@ -6,7 +8,8 @@ namespace Poker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Zagrajmy w Pokera! ");
+            
         }
     }
 }

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "PokerClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PokerClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PokerClassLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PokerClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PokerClassLibrary/PokerClassLibrary.csproj",
+      "msbuildProject": "../PokerClassLibrary/PokerClassLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "PokerClassLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\sniqq\\.nuget\\packages\\": {},
@@ -37,7 +56,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sniqq\\Desktop\\Poker\\PokerClassLibrary\\PokerClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\sniqq\\Desktop\\Poker\\PokerClassLibrary\\PokerClassLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
