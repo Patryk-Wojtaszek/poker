@@ -18,7 +18,8 @@ namespace PokerClassLibrary
             Dwójka, Trójka, Czwórka, Piątka, Szóstka, Siódemka, Ósemka, Dziewiątka, Dziesiątka, Walet, Dama, Król, As 
         }
 
-
+        public Rodzaj mojRodzaj { get; set; }
+        public Wartość mojWartość { get; set; }
 
 
     }
