@@ -1,0 +1,16 @@
+C:\Users\sniqq\Desktop\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.csprojAssemblyReference.cache
+C:\Users\sniqq\Desktop\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.csproj.CoreCompileInputs.cache
+C:\Users\sniqq\Desktop\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.AssemblyInfoInputs.cache
+C:\Users\sniqq\Desktop\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.AssemblyInfo.cs
+C:\Users\sniqq\Desktop\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.exe
+C:\Users\sniqq\Desktop\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.deps.json
+C:\Users\sniqq\Desktop\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.runtimeconfig.json
+C:\Users\sniqq\Desktop\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.runtimeconfig.dev.json
+C:\Users\sniqq\Desktop\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.dll
+C:\Users\sniqq\Desktop\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.pdb
+C:\Users\sniqq\Desktop\Poker\Poker\bin\Debug\netcoreapp3.1\PokerClassLibrary.dll
+C:\Users\sniqq\Desktop\Poker\Poker\bin\Debug\netcoreapp3.1\PokerClassLibrary.pdb
+C:\Users\sniqq\Desktop\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.csproj.CopyComplete
+C:\Users\sniqq\Desktop\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.dll
+C:\Users\sniqq\Desktop\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.pdb
+C:\Users\sniqq\Desktop\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.genruntimeconfig.cache

@@ -21,7 +21,7 @@ namespace PokerClassLibrary
         public Rodzaj mojRodzaj { get; set; }
         public Wartość mojWartość { get; set; }
 
-
+        public override string ToString() => $"{mojWartość} {mojRodzaj}";
     }
     
 }

@@ -1,0 +1,9 @@
+C:\Users\sniqq\Desktop\Poker\PokerClassLibrary\obj\Debug\netstandard2.0\PokerClassLibrary.csprojAssemblyReference.cache
+C:\Users\sniqq\Desktop\Poker\PokerClassLibrary\obj\Debug\netstandard2.0\PokerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sniqq\Desktop\Poker\PokerClassLibrary\obj\Debug\netstandard2.0\PokerClassLibrary.AssemblyInfoInputs.cache
+C:\Users\sniqq\Desktop\Poker\PokerClassLibrary\obj\Debug\netstandard2.0\PokerClassLibrary.AssemblyInfo.cs
+C:\Users\sniqq\Desktop\Poker\PokerClassLibrary\bin\Debug\netstandard2.0\PokerClassLibrary.deps.json
+C:\Users\sniqq\Desktop\Poker\PokerClassLibrary\bin\Debug\netstandard2.0\PokerClassLibrary.dll
+C:\Users\sniqq\Desktop\Poker\PokerClassLibrary\bin\Debug\netstandard2.0\PokerClassLibrary.pdb
+C:\Users\sniqq\Desktop\Poker\PokerClassLibrary\obj\Debug\netstandard2.0\PokerClassLibrary.dll
+C:\Users\sniqq\Desktop\Poker\PokerClassLibrary\obj\Debug\netstandard2.0\PokerClassLibrary.pdb

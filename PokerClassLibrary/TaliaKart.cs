@@ -5,7 +5,7 @@ using System.Text;
 
 namespace PokerClassLibrary
 {
-    class TaliaKart : Karta
+    public class TaliaKart : Karta
     {
         const int liczbaKart = 52;
         private List<Karta> talia;
@@ -47,5 +47,8 @@ namespace PokerClassLibrary
 
             }
         }
+        
+        
+     
     }
 }
