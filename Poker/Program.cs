@@ -28,6 +28,9 @@ namespace Poker
                         
                         break;
                     case "2":
+                        Console.WriteLine("Texas Holdem to odmiana pokera gdzie spośród 2 prywantych kart na ręce, oraz 5 dostępnych dla wszystkich " +
+                            "kart na stole, gracz wybiera kombinację 5 najlepszych kart.");
+                        start();
                         break;
                     default:
                         Console.WriteLine("Niepoprawna Komenda, wpisz 0, 1, lub 2 ");
