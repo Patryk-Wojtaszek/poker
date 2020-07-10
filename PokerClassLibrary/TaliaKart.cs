@@ -39,7 +39,7 @@ namespace PokerClassLibrary
             {
                 for (int j = 0; j < liczbaKart; j++)
                 {
-                    int mieszamy = random.Next(13);
+                    int mieszamy = random.Next(liczbaKart);
                     temp = talia[j];
                     talia[j] = talia[mieszamy];
                     talia[mieszamy] = temp;
