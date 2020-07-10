@@ -108,7 +108,7 @@ namespace PokerClassLibrary
                 sortujCPU.Add(v);
             }
             
-            foreach (Karta k in sortujGracz)
+            /*foreach (Karta k in sortujGracz)
             {
                 Console.WriteLine(k);
             }
@@ -116,7 +116,7 @@ namespace PokerClassLibrary
             {
                 Console.WriteLine(k);
             }
-
+            */
 
 
         }
