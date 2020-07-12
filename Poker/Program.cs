@@ -40,10 +40,7 @@ namespace Poker
             }
 
 
-            /* Karta karta = new Karta();
-             karta.mojRodzaj = Karta.Rodzaj.Karo;
-             karta.mojWartość = Karta.Wartość.As;
-             Console.WriteLine(karta);
+            /* Niestety projekt nie jest dokończony, troszkę przerosła mnie hierarchia kart przez to że wybrałem Texas Holdem a nie zwykłą wersję Pokera.
              */
         }
     }

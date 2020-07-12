@@ -93,15 +93,14 @@ namespace PokerClassLibrary
         }
         private bool Full()
         {
-            if ((karty[0].mojWartość==karty[1].mojWartość && karty[0].mojWartość==karty[2].mojWartość && karty[3].mojWartość==karty[4].mojWartość) ||
-                (karty[0].mojWartość==karty[1].mojWartość && karty[2].mojWartość==karty[3].mojWartość && karty[2].mojWartość==karty[4].mojWartość))
+            if ((karty[0].mojWartość == karty[1].mojWartość && karty[0].mojWartość == karty[2].mojWartość && karty[3].mojWartość == karty[4].mojWartość) ||
+                (karty[0].mojWartość == karty[1].mojWartość && karty[2].mojWartość == karty[3].mojWartość && karty[2].mojWartość == karty[4].mojWartość))
             {
                 mocRęki.coMasz = (int)karty[0].mojWartość + (int)karty[1].mojWartość + (int)karty[2].mojWartość + (int)karty[3].mojWartość +
                     (int)karty[4].mojWartość;
                 return true;
             }
-            else if ((karty[0].mojWartość == karty[1].mojWartość && karty[0].mojWartość == karty[2].mojWartość && karty[4].mojWartość == karty[5].mojWartość) ||
-                (karty[0].mojWartość == karty[1].mojWartość && karty[2].mojWartość == karty[3].mojWartość && karty[2].mojWartość == karty[4].mojWartość))
+            return false;
         }
     }
 
